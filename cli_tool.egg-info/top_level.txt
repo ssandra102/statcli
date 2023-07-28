@@ -1,2 +1,1 @@
-app
 cli_tool

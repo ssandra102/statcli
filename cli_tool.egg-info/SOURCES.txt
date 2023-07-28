@@ -1,8 +1,6 @@
 cli_tool.py
 setup.py
-app/__init__.py
-app/__main__.py
-app/application.py
+cli_tool/application.py
 cli_tool.egg-info/PKG-INFO
 cli_tool.egg-info/SOURCES.txt
 cli_tool.egg-info/dependency_links.txt

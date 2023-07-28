@@ -1,7 +1,0 @@
-setup.py
-csv_linter.egg-info/PKG-INFO
-csv_linter.egg-info/SOURCES.txt
-csv_linter.egg-info/dependency_links.txt
-csv_linter.egg-info/entry_points.txt
-csv_linter.egg-info/requires.txt
-csv_linter.egg-info/top_level.txt
